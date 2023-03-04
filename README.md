@@ -1,3 +1,4 @@
+![perfect-numbers](https://user-images.githubusercontent.com/44240533/222924368-c60d2802-35c0-423b-9c4b-fefbc04945e5.svg)
 # Perfect Numbers
 
 Welcome to Perfect Numbers on Exercism's Java Track.
